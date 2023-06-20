@@ -9,7 +9,7 @@ import { IonicModule } from '@ionic/angular';
   imports: [IonicModule],
 })
 export class HomePage {
-  trocouCurso(event: any){
-    console.log(event.detail.value);
-  }
+  
+  
+  
 }
